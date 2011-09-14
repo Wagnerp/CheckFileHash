@@ -1,0 +1,5 @@
+W:\projects\Visual Studio\CheckFileHash\CheckFileHash\obj\x86\Debug\ResolveAssemblyReference.cache
+W:\projects\Visual Studio\CheckFileHash\CheckFileHash\bin\Debug\CheckFileHash.exe
+W:\projects\Visual Studio\CheckFileHash\CheckFileHash\bin\Debug\CheckFileHash.pdb
+W:\projects\Visual Studio\CheckFileHash\CheckFileHash\obj\x86\Debug\CheckFileHash.exe
+W:\projects\Visual Studio\CheckFileHash\CheckFileHash\obj\x86\Debug\CheckFileHash.pdb
